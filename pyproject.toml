@@ -5,6 +5,8 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "backtesting>=0.3.3",
+    "backtrader>=1.9.78.123",
     "matplotlib>=3.10.0",
     "pandas>=2.2.3",
     "scikit-learn>=1.6.0",

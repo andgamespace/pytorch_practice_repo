@@ -7,9 +7,11 @@ requires-python = ">=3.12"
 dependencies = [
     "backtrader>=1.9.78.123",
     "ipykernel>=6.29.5",
+    "itables>=2.2.4",
     "matplotlib>=3.10.0",
     "numpy>=2.2.1",
     "pandas>=2.2.3",
+    "scikit-learn>=1.6.0",
     "torch>=2.5.1",
     "torchaudio>=2.5.1",
 ]

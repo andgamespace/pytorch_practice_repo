@@ -18,4 +18,5 @@ dependencies = [
     "torchaudio>=2.5.1",
     "torchmetrics>=1.6.1",
     "torchvision>=0.20.1",
+    "tqdm>=4.67.1",
 ]
